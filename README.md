@@ -3,7 +3,7 @@
 - 💻 Graduating in Computing Engineer.
 - ☕ Learning Java and Angular.
 - 🙋🏼‍♂️ Pronouns: he/his.
-- ⚡ Fun fact: If you're in the Schrödinger box, you're a undead🧟.
+- ⚡ Fun fact: If you're in the Schrödinger box, you're an undead🧟.
 
 <div>
   <a href="https://github.com/luizhviras">
