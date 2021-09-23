@@ -1,4 +1,4 @@
-### Hi everyone, I'm Luiz Henrique, nice to meet you!👋🏼
+### Hi everyone, I'm Luiz, nice to meet you!👋🏼
 
 - 💻 Graduating in Computing Engineer.
 - ☕ Learning Java and Angular.
