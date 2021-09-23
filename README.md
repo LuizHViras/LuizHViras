@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/luizhviras">
-  <img align="left"  width="55%" src="https://github-readme-stats.vercel.app/api?username=luizhviras&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="left"  width="58%" src="https://github-readme-stats.vercel.app/api?username=luizhviras&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhviras&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
