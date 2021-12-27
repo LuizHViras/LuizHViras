@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Luiz, nice to meet you!👋🏼
 
-- 🏦 Interno at Bradesco S.A..
+- 🏦 Intern at Bradesco S.A..
 - 💻 Graduating in Computing Engineer.
 - ☕ Learning Java and Angular.
 - 🙋🏼‍♂️ Pronouns: he/his.
