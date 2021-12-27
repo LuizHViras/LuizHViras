@@ -2,7 +2,7 @@
 
 - 🏦 Intern at Bradesco S.A..
 - 💻 Graduating in Computing Engineer.
-- ☕ Learning Java and Angular.
+- ☕ Learning SQL.
 - 🙋🏼‍♂️ Pronouns: he/his.
 - ⚡ Fun fact: If you're in the Schrödinger box, you're an undead🧟.
 
