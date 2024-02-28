@@ -20,9 +20,10 @@
 <div style="display: inline_block"><br/>
   <img align = "center" height=50 width = 50 alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align = "center" height=50 width = 50 alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align = "center" height=50 width = 50 alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
-  <img align = "center" height=50 width = 50 alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align = "center" height=50 width = 50 alt="Excel" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align = "center" height=50 width = 50 alt="Databricks" src="https://avatars.githubusercontent.com/u/4998052?s=200">
+  <img align = "center" height=50 width = 50 alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align = "center" height=50 width = 50 alt="Excel" src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg">
+  <img align = "center" height=50 width = 50 alt="Power BI" src="https://avatars.githubusercontent.com/u/42988494?s=200">
 </div>
  
   ![Snake animation](https://github.com/LuizHViras/LuizHViras/blob/output/github-contribution-grid-snake.svg)
