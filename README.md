@@ -29,18 +29,8 @@
 
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/Python-FFD342?style=for-the-badge&logo=python&textColor=white)&nbsp;
-![Databricks](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD342?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F1C911?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
 
-
-
-## Daily tecnology and Hardskills
-
-<div style="display: inline_block"><br/>
-  <img align = "center" height=50 width = 50 alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align = "center" height=50 width = 50 alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align = "center" height=50 width = 50 alt="Databricks" src="https://avatars.githubusercontent.com/u/4998052?s=200">
-  <img align = "center" height=50 width = 50 alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align = "center" height=50 width = 50 alt="Excel" src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg">
-  <img align = "center" height=50 width = 50 alt="Power BI" src="https://avatars.githubusercontent.com/u/42988494?s=200">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
