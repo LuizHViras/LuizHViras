@@ -16,16 +16,23 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LuizHVirasNobre)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/luce_riowar)
 
+### Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
-### Main skills:
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346)&nbsp;
+### Data Visualization
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge)&nbsp;
 
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
 
-### Studying in this moment:
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD342)&nbsp;
-![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=Databricks&logoColor=FF3621)&nbsp;
-![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F1C911)&nbsp;
+### Cloud
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=46a0e1&height=120&section=footer"/>
