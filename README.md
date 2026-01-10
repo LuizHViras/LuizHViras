@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=46a0e1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46a0e1&size=35&center=true&vCenter=true&width=1000&lines=Hi+everyone,+my+name+is+Luiz+Henrique;I'm+Junior+Finance+Planning+at+Amil;I+Graduated+Computing+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46a0e1&size=35&center=true&vCenter=true&width=1000&lines=Hi+everyone,+my+name+is+Luiz+Henrique;I'm+Business+Intelligence+Analyst+at+Ticket+Serviços;I+Graduated+Computing+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizHViras&bg_color=141321&color=79c3f8&line=46a0e1&point=E83C83&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -14,7 +14,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizhviras@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizhviras)&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LuizHVirasNobre)&nbsp;
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/luce_riowar)&nbsp;
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
